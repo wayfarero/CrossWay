@@ -1,9 +1,9 @@
-# Crossway
+# CrossWay
 
 ## Overview
-Crossway is a 4GL built code analysis tool developed by [Wayfare](https://wayfare.ro/) , tailor-made for Progress OpenEdge applications. It helps users visualize and understand the technical and functional ripple effects of code changes using either [Draw.io](https://www.drawio.com/) or our own [Crossway Diagram Viewer](https://wayfare.ro/tools/crossway/Crossway-Diagram-Viewer-Setup-v1.0.zip).
+CrossWay is a 4GL built code analysis tool developed by [Wayfare](https://wayfare.ro/) , tailor-made for Progress OpenEdge applications. It helps users visualize and understand the technical and functional ripple effects of code changes using either [draw.io](https://www.drawio.com/) or our own [CrossWay Diagram Viewer](https://wayfare.ro/tools/crossway/Crossway-Diagram-Viewer-Setup-v1.0.zip).
 
-A visual representation of how your code changes affect and spread throughout your entire application would be invaluable. Crossway gathers cross-reference information from a selected suite of files within your 4GL code and also databases structure and produces several graphical outputs that are easy to understand, both technically and functionally.
+A visual representation of how your code changes affect and spread throughout your entire application would be invaluable. CrossWay gathers cross-reference information from a selected suite of files within your 4GL code and also databases structure and produces several graphical outputs that are easy to understand, both technically and functionally.
 
 This visualization is crucial, especially when your application’s business model demands strict control over released changes.
 
@@ -11,17 +11,17 @@ This visualization is crucial, especially when your application’s business mod
 ---
 
 ## Downloads
-  - [Openedge Developer Studio Crossway Plugin zip (OE 12.8)](https://github.com/wayfarero/CrossWay/blob/main/plugin/CrosswayPlugin-1.0.0.zip)
-  - [Crossway Diagram Viewer](https://wayfare.ro/tools/crossway/Crossway-Diagram-Viewer-Setup-v1.0.zip)
+  - [Openedge Developer Studio CrossWay Plugin zip (OE 12.8)](https://github.com/wayfarero/CrossWay/blob/main/plugin/CrosswayPlugin-1.0.0.zip)
+  - [CrossWay Diagram Viewer](https://wayfare.ro/tools/crossway/Crossway-Diagram-Viewer-Setup-v1.0.zip)
 
 ## Documents
 
-  - [Introducing Crossway](https://github.com/wayfarero/CrossWay/blob/main/doc/Introducing%20Crossway%20See%20Your%204GL%20Code%20Like%20Never%20Before.pdf)
+  - [Introducing CrossWay](https://github.com/wayfarero/CrossWay/blob/main/doc/Introducing%20Crossway%20See%20Your%204GL%20Code%20Like%20Never%20Before.pdf)
 
 ### Plugin Installation
-  - [Crossway Plugin Installation Manual](https://github.com/wayfarero/CrossWay/blob/main/doc/CROSSWAY%20PLUGIN%20INSTALLATION.pdf)
+  - [CrossWay Plugin Installation Manual](https://github.com/wayfarero/CrossWay/blob/main/doc/CROSSWAY%20PLUGIN%20INSTALLATION.pdf)
 ### User Manual
-  - [Crossway User Manual](https://github.com/wayfarero/CrossWay/blob/main/doc/CROSSWAY%20USER%20MANUAL.pdf)
+  - [CrossWay User Manual](https://github.com/wayfarero/CrossWay/blob/main/doc/CROSSWAY%20USER%20MANUAL.pdf)
 ### FAQ
   - [FAQ](https://github.com/wayfarero/CrossWay/blob/main/doc/FAQ.pdf)
 
