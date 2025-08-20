@@ -1,7 +1,7 @@
 # Crossway
 
 ## Overview
-Crossway is a 4GL built code analysis tool tailor-made for Progress OpenEdge applications. It helps users visualize and understand the technical and functional ripple effects of code changes using either Draw.io (https://www.drawio.com/) or our own Crossway Viewer.
+Crossway is a 4GL built code analysis tool tailor-made for Progress OpenEdge applications. It helps users visualize and understand the technical and functional ripple effects of code changes using either Draw.io (https://www.drawio.com/) or our own Crossway Diagram Viewer (https://wayfare.ro/tools/crossway/Crossway-Diagram-Viewer-Setup-v1.0.zip).
 
 ---
 
