@@ -11,11 +11,10 @@ This visualization is crucial, especially when your application’s business mod
 ---
 
 ## Downloads
-  - [Openedge Developer Studio CrossWay Plugin zip (OE 12.8)](https://github.com/wayfarero/CrossWay/blob/main/plugin/CrosswayPlugin-1.0.0.zip)
+  - [Openedge Developer Studio CrossWay Plugin zip (latest, OE 12.8)](https://github.com/wayfarero/CrossWay/blob/main/plugin/CrosswayPlugin-1.0.0.zip)
   - [CrossWay Diagram Viewer](https://wayfare.ro/tools/crossway/Crossway-Diagram-Viewer-Setup-v1.0.zip)
 
 ## Documents
-
   - [Introducing CrossWay](https://github.com/wayfarero/CrossWay/blob/main/doc/Introducing%20Crossway%20See%20Your%204GL%20Code%20Like%20Never%20Before.pdf)
 
 ### Plugin Installation
@@ -24,6 +23,10 @@ This visualization is crucial, especially when your application’s business mod
   - [CrossWay User Manual](https://github.com/wayfarero/CrossWay/blob/main/doc/CROSSWAY%20USER%20MANUAL.pdf)
 ### FAQ
   - [FAQ](https://github.com/wayfarero/CrossWay/blob/main/doc/FAQ.pdf)
+
+## Version History
+  - [1.0.0](https://github.com/wayfarero/CrossWay/blob/main/plugin/CrosswayPlugin-1.0.0.zip)
+    - initial version supporting Impact, Inheritance and Interface diagrams + Circular Dependencies highlighting  
 
 
 
