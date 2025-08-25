@@ -9,7 +9,7 @@ This visualization is crucial, especially when your application’s business mod
 
 
 ---
-## Crossway Update Site
+## Crossway Plugin URL
  - https://github.com/wayfarero/CrossWay/raw/main/CrossWayPlugin
 
 ## Downloads
