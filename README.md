@@ -11,7 +11,8 @@ This visualization is crucial, especially when your application’s business mod
 ---
 ## Crossway Plugin URL
  - https://github.com/wayfarero/CrossWay/raw/main/CrossWayPlugin
-   *Use the link above to install the plugin into the PDSOE 12.8
+   
+Use the link above to install the plugin into the PDSOE 12.8
 
 ## Downloads
   - [CrossWay Visualizer](https://wayfare.ro/downloads/crossway/)
