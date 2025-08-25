@@ -9,9 +9,10 @@ This visualization is crucial, especially when your application’s business mod
 
 
 ---
+## Crossway Update Site
+ - [Openedge Developer Studio CrossWay Plugin (OE 12.8)](https://github.com/wayfarero/CrossWay/raw/main/CrossWayPlugin)
 
 ## Downloads
-  - [Openedge Developer Studio CrossWay Plugin zip (OE 12.8)](https://github.com/wayfarero/CrossWay/blob/main/plugin/CrosswayPlugin-1.0.0.zip)
   - [CrossWay Visualizer](https://wayfare.ro/downloads/crossway/)
 
 ## Documents
