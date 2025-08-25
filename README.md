@@ -28,7 +28,11 @@ Use the link above to install the plugin into the PDSOE 12.8
   - [FAQ](https://github.com/wayfarero/CrossWay/blob/main/doc/FAQ.pdf)
 
 ## Version History
-  - [1.0.0 (latest)](https://github.com/wayfarero/CrossWay/blob/main/plugin/CrosswayPlugin-1.0.0.zip)
+  - 1.0.2 (latest)
+    - corrected UI design
+  - 1.0.1 
+    - several bug fixes and improved stability
+  - 1.0.0 
     - initial version supporting Impact, Inheritance and Interface diagrams + Circular Dependencies highlighting  
 
 
