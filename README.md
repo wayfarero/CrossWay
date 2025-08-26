@@ -1,7 +1,7 @@
 # CrossWay
 
 ## Overview
-CrossWay is a 4GL built code analysis tool developed by [Wayfare](https://wayfare.ro/) , tailor-made for Progress OpenEdge applications. It helps users visualize and understand the technical and functional ripple effects of code changes using either [draw.io](https://www.drawio.com/) or our own [CrossWay Visualizer](https://wayfare.ro/downloads/crossway/).
+CrossWay is a 4GL built code analysis tool developed by <a href="https://wayfare.ro" target="_blank">Wayfare</a> , tailor-made for Progress OpenEdge applications. It helps users visualize and understand the technical and functional ripple effects of code changes using either [draw.io](https://www.drawio.com/) or our own [CrossWay Visualizer](https://wayfare.ro/downloads/crossway/).
 
 A visual representation of how your code changes affect and spread throughout your entire application would be invaluable. CrossWay gathers cross-reference information from a selected suite of files within your 4GL code and also databases structure and produces several graphical outputs that are easy to understand, both technically and functionally.
 
