@@ -27,7 +27,7 @@ Use the link above to install the plugin into the PDSOE 12.8
 ### FAQ
   - [FAQ](https://github.com/wayfarero/CrossWay/blob/main/doc/FAQ.pdf)
 
-## Version History
+## Version Plugin History
   - 1.0.3 (latest)
     - improved Config UI
   - 1.0.2
