@@ -28,7 +28,9 @@ Use the link above to install the plugin into the PDSOE 12.8
   - [FAQ](https://github.com/wayfarero/CrossWay/blob/main/doc/FAQ.pdf)
 
 ## CrossWay Plugin Version History
-  - 1.0.3 (latest)
+  - 1.0.4 (latest)
+	- fixed bugs, added CrossWay Visualizer support for Inheritance and Interface diagrams
+  - 1.0.3 
     - improved Config UI
   - 1.0.2
     - corrected UI design
